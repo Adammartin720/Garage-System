@@ -1,0 +1,54 @@
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.exe.config
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.exe.config
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.exe
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.pdb
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.xml
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.vbprojResolveAssemblyReference.cache
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.Resources.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.vbproj.GenerateResource.Cache
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.exe
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.xml
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.pdb
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.exe
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.xml
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.pdb
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.exe
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.pdb
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.xml
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.vbprojResolveAssemblyReference.cache
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.Form1.resources
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.Resources.resources
+N:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.vbproj.GenerateResource.Cache
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmaddsupplier.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcashtran.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcredittran.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmaddcustomer.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcashsale.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcreditsale.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmaddparts.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcashrefund.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmpurchacestock.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcreditnote.resources
+F:\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frnmenu.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.exe.config
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\bin\Debug\VineyCrawford.xml
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.vbprojResolveAssemblyReference.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmaddsupplier.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmaddparts.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frnmenu.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcashtran.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcredittran.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmaddcustomer.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcashsale.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcreditsale.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcashrefund.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmpurchacestock.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.frmcreditnote.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.Resources.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.vbproj.GenerateResource.Cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.vbproj.CoreCompileInputs.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.xml
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Data Analysis\Assignment 1\VineyCrawford\VineyCrawford\obj\Debug\VineyCrawford.pdb
